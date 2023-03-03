@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Try Harder</title>
+    <link>%20https//riley-wilson.github.io/site/post/</link>
+    <description>Recent content in Posts on Try Harder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="%20https//riley-wilson.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prior to, and after, lifestyle</title>
-      <link>http://example.org/post/2023-02-23-lifestyle/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2023-02-23-lifestyle/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2023-02-23-lifestyle/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2023-02-23-lifestyle/</guid>
       <description>I used to be a brand philistine. For me, a brand was a basic signal of quality and nothing else. There were cost-conscious brands like Kroger Basics for groceries and Sketchers for shoes. If you wanted to get fancy, you could upgrade to Erewhon or Lacoste, buy a Mercedes rather than a Honda, or shop at Saks on Fifth rather than Nordstrom. Does Erewhon mayo taste better than Kroger mayo? Probably a little.</description>
     </item>
     
     <item>
       <title>Who&#39;s having a good time?</title>
-      <link>http://example.org/post/2023-01-24-whos-having-a-good-time/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2023-01-24-whos-having-a-good-time/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2023-01-24-whos-having-a-good-time/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2023-01-24-whos-having-a-good-time/</guid>
       <description>Many people I&amp;rsquo;ve talked to in their early 20s aren&amp;rsquo;t having a good time. Some are mid-leap from school to industry, or stuck in menial white-collar work. Others are in a strange limbo between undergrad and their graduate school ambitions. The next group is fine career-wise, but struggling with an ennui that pulls them towards David Graeber, Yuval Noah Harari, and inchoate dreams of a hunter-gatherer lifestyle. Of course, there are exceptions, though not enough.</description>
     </item>
     
     <item>
       <title>Party Seeking</title>
-      <link>http://example.org/post/2022-12-15-party-seeking/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2022-12-15-party-seeking/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2022-12-15-party-seeking/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2022-12-15-party-seeking/</guid>
       <description>Seth and Evan have returned home from their first year of college. Despite high school hijinks, they&amp;rsquo;ve found the tertiary social scene difficult: weekly ragers never materialized. In the last year, they&amp;rsquo;ve only attended three parties between them.
 Seth: I don&amp;rsquo;t understand it. There are parties everywhere in college but I can&amp;rsquo;t get invited to any of them.
 Evan: I feel you. Nobody seems to want me at their party, either.</description>
@@ -38,68 +38,68 @@ Evan: I feel you. Nobody seems to want me at their party, either.</description>
     
     <item>
       <title>Skip the small talk</title>
-      <link>http://example.org/post/2022-10-08-skip-the-small-talk/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2022-10-08-skip-the-small-talk/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2022-10-08-skip-the-small-talk/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2022-10-08-skip-the-small-talk/</guid>
       <description>Imagine a party. At the beginning, the host tells the attendees there are only two rules:
 You can&amp;rsquo;t talk about work You can&amp;rsquo;t talk about cities Standard conversational crutches will not work tonight. Yet, projected in a prominent place, is a list of questions. Conveniently, these are the sorts of questions you&amp;rsquo;d ask someone at a specific kind of gathering. They&amp;rsquo;re a little quirky, slightly strange. Each wants to land at the intersection of probing and whimsical.</description>
     </item>
     
     <item>
       <title>Simulations on persistence</title>
-      <link>http://example.org/post/2022-07-07-simulations-on-persistence/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2022-07-07-simulations-on-persistence/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2022-07-07-simulations-on-persistence/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2022-07-07-simulations-on-persistence/</guid>
       <description>Pick a skill you want to improve. It can be anything. Perhaps you’re keen on the oboe or want to graduate from paint-by-numbers to something more avant-garde. Or, you want to get in shape, learn new mathematics, or start a new career. Regardless, in a year’s time, you want to be substantially better at some thing than you are now.
 You read internet blogs, so you’re compelled to model out your future progress.</description>
     </item>
     
     <item>
       <title>Paris Notes</title>
-      <link>http://example.org/post/2022-01-31-paris_notes/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2022-01-31-paris_notes/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2022-01-31-paris_notes/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2022-01-31-paris_notes/</guid>
       <description>This trip was something of a trial by fire. Two years ago, I was itching for international travel and felt ready for it. I wanted it just as bad now, but was less ready. Living through a pandemic worked a change in my psychology. I now crave stability and predictability more than I am willing to admit, and interacting with others has been more difficult than ever. Traveling is not kind to either of these traits, and I learned that the hard way.</description>
     </item>
     
     <item>
       <title>Startups as status</title>
-      <link>http://example.org/post/2021-11-21-startups-as-status/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2021-11-21-startups-as-status/</link>
       <pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021-11-21-startups-as-status/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2021-11-21-startups-as-status/</guid>
       <description>Status
 My internet education has taught me to see the world in terms of status.1 Keeping tabs on status inflows and outflows can give a plausible explanation to almost any social puzzle. Why do people say X in conversation? (A: To be the high-status individual). Why do people do [tacky thing]? (A: it’s high-status in their social sphere, not yours). What explains big chunks of modernity? (A: We’re — allegedly — drunk on status).</description>
     </item>
     
     <item>
       <title>Generalizations from competitive tennis</title>
-      <link>http://example.org/post/2021-09-13-tennis/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2021-09-13-tennis/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021-09-13-tennis/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2021-09-13-tennis/</guid>
       <description>I played competitive tennis growing up and was fairly decent. I had a racquet in my hand at around 5, played tournaments since 10, and had my relative singles ability peak around 14. I still play often, and most recently was a hitting partner for the UCLA’s women’s tennis team.
 The upshot is that I’ve been in/around the game for a while. When I was younger, tennis was my only model about risk/reward/accomplishment/the world, so it heavily influenced my thinking.</description>
     </item>
     
     <item>
       <title>Thoughts on Portland</title>
-      <link>http://example.org/post/2021-08-10-a-thought-on-portland/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2021-08-10-a-thought-on-portland/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021-08-10-a-thought-on-portland/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2021-08-10-a-thought-on-portland/</guid>
       <description>Every city, according to Paul Graham, tries to tell you something. For instance, walking around New York you might get the sense you need to be more fashionable, or make more money. A stroll through downtown San Francisco might prod you to join a startup, or at least work in technology. The culture of a city tugs at you, hinting you should be more X and less Y. It’s the place softly whispering what it wants.</description>
     </item>
     
     <item>
       <title>Take it personally</title>
-      <link>http://example.org/post/2021-06-16-take-it-personally/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2021-06-16-take-it-personally/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021-06-16-take-it-personally/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2021-06-16-take-it-personally/</guid>
       <description>I
 When you’re rejected, people will tell you not to “take it personally.” They’ll make comments like:
 “There were a lot of good players trying out for the hockey team this year. Don’t take it personally that you didn’t make it.”
@@ -109,20 +109,20 @@ When you’re rejected, people will tell you not to “take it personally.” Th
     
     <item>
       <title>A primer on inguinal hernias</title>
-      <link>http://example.org/post/2021-06-12-a_primer_on_inguinal_hernias/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2021-06-12-a_primer_on_inguinal_hernias/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021-06-12-a_primer_on_inguinal_hernias/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2021-06-12-a_primer_on_inguinal_hernias/</guid>
       <description>This post should not be taken as medical advice. I am far from being a doctor. However, it might be a decent primer on inguinal hernias and their risks. Any medical questions should be directed towards your physician.
 Another disclaimer: human males and females can both get inguinal hernias, but they are much, much more common in males. As a result, I wrote this post mostly with the male anatomy in mind.</description>
     </item>
     
     <item>
       <title>Afeyan on America</title>
-      <link>http://example.org/post/2021-01-14-america/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2021-01-14-america/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021-01-14-america/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2021-01-14-america/</guid>
       <description>Noubar Afeyan is the CEO of Moderna. His thoughts about America, as expressed in an interview with Tyler Cowen, struck me. For context, Afeyan is an Armenian-Lebanese immigrant.
 The idea of being an &amp;ldquo;American by choice&amp;rdquo; is really interesting.
 COWEN: Last question. How do we attract more people like you to come to America?
@@ -133,10 +133,10 @@ AFEYAN: What I mean is recognize that the country is, itself, one giant experime
     
     <item>
       <title>Thoughts at 2020</title>
-      <link>http://example.org/post/2020-12-28-thoughts-at-22/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-12-28-thoughts-at-22/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-12-28-thoughts-at-22/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-12-28-thoughts-at-22/</guid>
       <description>See Thoughts at 21 for an introduction to the genre.
 Character is important
 This is something I&amp;rsquo;ve learned by omission this year. When you&amp;rsquo;re alone, not interacting with people, you might forget you can have a character at all. You might forget you can be kind or compassionate, or you might forget substantive opportunities for courage exist. If things get really bad, you can even lose sight of what initiative and curiosity look like.</description>
@@ -144,19 +144,19 @@ This is something I&amp;rsquo;ve learned by omission this year. When you&amp;rsq
     
     <item>
       <title>Feel bad about us, feel good about the world</title>
-      <link>http://example.org/post/2020-10-18-us-bad-world-good/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-10-18-us-bad-world-good/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-10-18-us-bad-world-good/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-10-18-us-bad-world-good/</guid>
       <description>Occasionally I meet someone with a really awful view of human nature. They look at the world, see all the ways we fail to cooperate, and conclude humanity has been doomed from the start. To them, there’s something like an inherent deficit of altruism or foresight that prevents us from solving our most pressing problems. Specifically, they tend to be disappointed with progress on climate change or nuclear weapons and are pretty dour as a result.</description>
     </item>
     
     <item>
       <title>Tennis and probability</title>
-      <link>http://example.org/post/2020-08-23-tennis-prob/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-08-23-tennis-prob/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-08-23-tennis-prob/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-08-23-tennis-prob/</guid>
       <description>The code used for the simulations can be found here.
 I.
 Imagine there’s a tennis match in Kyrgyzstan between two players you’ve never heard of. You don’t know their rankings, match histories, or even what they look like, but you’re tasked with predicting who will win. The only piece of information at your disposal is player1 has a p chance of winning any given point against player2. In other words, if player1 and player2 played 100 points, on average player1 would win p*100 of these points.</description>
@@ -164,30 +164,30 @@ Imagine there’s a tennis match in Kyrgyzstan between two players you’ve neve
     
     <item>
       <title>Consider the ideal</title>
-      <link>http://example.org/post/2020-08-06-ideal/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-08-06-ideal/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-08-06-ideal/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-08-06-ideal/</guid>
       <description>Imagine a young person trying to decide what to do with her professional life. Excluding financial considerations, she might consider three principles.1
 The principle of approbation Do the thing that earns the most social praise. The principle of altruism Do the thing that increases the well-being of humankind. The ideal principle Imagine the world is perfect and your opportunities are endless. No wars, no famine, no disease, and no obstacles preventing you from pursuing whatever you wish.</description>
     </item>
     
     <item>
       <title>Power in Gulliver&#39;s Travels</title>
-      <link>http://example.org/post/2020-06-13-gull/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-06-13-gull/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-06-13-gull/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-06-13-gull/</guid>
       <description>Jonathan Swift&amp;rsquo;s Gulliver&amp;rsquo;s Travels is actually a fantastic blend of adventure fantasy and social satire. It&amp;rsquo;s probably the type of book I&amp;rsquo;ll pick up later in life once I&amp;rsquo;ve seen more of the world and think it&amp;rsquo;s twice as funny/good as I do now.
 In a nutshell, the book describes the journeys of Lemuel Gulliver, the most unfortunate man in the world. Over the span of 16 years, he is shipwrecked, forgotten onshore of a mysterious island, and marooned twice.</description>
     </item>
     
     <item>
       <title>Probability and God</title>
-      <link>http://example.org/post/2020-05-22-prob-and-god/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-05-22-prob-and-god/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-05-22-prob-and-god/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-05-22-prob-and-god/</guid>
       <description>Occasionally, rare things happen to us.
 You might land a competitive job (3/100), appear on the big screen at a sporting event (1/70,00), or win the lottery (1/12,271,512). It&amp;rsquo;s also possible for you to get a US green card (1/126), be struck by lightning (1/700,000), or have an idea so good it&amp;rsquo;s &amp;ldquo;like getting struck by lightning&amp;rdquo; (1/???).
 Whether it&amp;rsquo;s good or bad when the improbable becomes actual, there&amp;rsquo;s always a question lurking in the background: is this evidence of anything?</description>
@@ -195,20 +195,20 @@ Whether it&amp;rsquo;s good or bad when the improbable becomes actual, there&amp
     
     <item>
       <title>Pandemics and ethnic violence</title>
-      <link>http://example.org/post/2020-04-21-pandemics-ethnic-violence/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-04-21-pandemics-ethnic-violence/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-04-21-pandemics-ethnic-violence/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-04-21-pandemics-ethnic-violence/</guid>
       <description>We begin with two questions:
 Under what conditions will a population persecute an ethnic minority during and after a pandemic? Who is most likely to instigate the violence? Their answers are important. In case you haven&amp;rsquo;t heard, a deadly coronavirus has surfaced in Wuhan, China, and has now spread around the world. Some hold Asians responsible for the pandemic and act on their prejudice. A 16-year-old Asian-American boy in the San Fernando Valley was assaulted and sent to the emergency room after being accused of having the virus.</description>
     </item>
     
     <item>
       <title>In defense of business majors</title>
-      <link>http://example.org/post/2020-04-04-biz/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-04-04-biz/</link>
       <pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-04-04-biz/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-04-04-biz/</guid>
       <description>Sophia Booth and Taylor Hutchins are both freshmen in college. Sophia has just told Taylor she wants to switch her major to business.
 Taylor: Why would you do that? How can you learn anything about business in the classroom? They&amp;rsquo;re only going to teach you theory, and we all know that&amp;rsquo;s worse than useless when you go out into the real world.
 Sophia: What makes you qualified to piss on business majors like that?</description>
@@ -216,47 +216,47 @@ Sophia: What makes you qualified to piss on business majors like that?</descript
     
     <item>
       <title>I didn&#39;t check my grades for two years</title>
-      <link>http://example.org/post/2020-01-12-no-grades/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-01-12-no-grades/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-01-12-no-grades/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-01-12-no-grades/</guid>
       <description>By the time college rolled around, I had made the decision not to check my grades at all. They had, quite literally, ruled my life during high school, and I was intent on making sure the future was different. This was not (fully) an irresponsible retreat from reality, but the consequence of some positions I began to hold about schools and learning. As a result, up until the end of my sophomore year, I never knew what letter grade I had received in a class or even what my GPA was.</description>
     </item>
     
     <item>
       <title>Did household appliances actually save time?</title>
-      <link>http://example.org/post/2020-01-03.appliances/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2020-01-03.appliances/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2020-01-03.appliances/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2020-01-03.appliances/</guid>
       <description>I used to have this idea that the introduction of electric appliances circa 1960 dramatically reduced the number of hours people, especially housewives, spent on domestic tasks. The thought is pretty intuitive. It&amp;rsquo;s quicker to wash clothes with a washing machine than with a tub and washboard. Dishwashers are more efficient than washing dishes by hand. In the span of a couple of years, I thought, American housewives had much more free time.</description>
     </item>
     
     <item>
       <title>Thoughts at 2019</title>
-      <link>http://example.org/post/2019-12-28-thoughts-at-21/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-12-28-thoughts-at-21/</link>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-12-28-thoughts-at-21/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-12-28-thoughts-at-21/</guid>
       <description>originally titled &amp;lsquo;What I&amp;rsquo;ve learned at 21&amp;rsquo;
 Hopefully, this blog post is the first step of what will become a lifelong project. I already journal every day and record some of what I&amp;rsquo;ve learned there, but making a public list helps me clarify my thoughts and allows friends to challenge them. In the future, it can also afford me an opportunity to publicly affirm or refute something I said in previous years.</description>
     </item>
     
     <item>
       <title>Is becoming a lawyer a good investment? Part III</title>
-      <link>http://example.org/post/2019-09-09-law-school-3/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-09-09-law-school-3/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-09-09-law-school-3/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-09-09-law-school-3/</guid>
       <description>In part 1, we described the hypothetical students used in this investigation and calculated the opportunity cost of going to law school for each of them. In part 2, we factored in tuition and university fees and arrived the amount of income a new JD would need to earn to do &amp;ldquo;better&amp;rdquo; than their non-lawyer doppelgänger. Part 3 is where we draw conclusions. In order to do so, we&amp;rsquo;re going to revisit the concept of hurdle compensation that we developed in the last post.</description>
     </item>
     
     <item>
       <title>Is becoming a lawyer a good investment? Part II</title>
-      <link>http://example.org/post/2019-08-12-law-school-2/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-08-12-law-school-2/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-08-12-law-school-2/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-08-12-law-school-2/</guid>
       <description>In the last post, we described the hypothetical students we are using for this investigation and considered and the type of income they would be missing if they chose to go to law school. Now, we’ll add tuition to the total cost and see how much each would need to earn as lawyers to “break even,” so to speak.
 Step 3: tuition and totals
 Tuition varies greatly between institutions. In the most egregious of circumstances, you can expect to pay up to $77,000 a year at fancy private law school.</description>
@@ -264,67 +264,67 @@ Tuition varies greatly between institutions. In the most egregious of circumstan
     
     <item>
       <title>Is becoming a lawyer a good investment? Part I</title>
-      <link>http://example.org/post/2019-07-07-law-school-1/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-07-07-law-school-1/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-07-07-law-school-1/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-07-07-law-school-1/</guid>
       <description>Like many in unmarketable majors, I&amp;rsquo;ve briefly toyed with the idea of becoming a lawyer. Not necessarily because I have a deep interest in the law, but because going to law school is the ultimate vindication for your humanities degree.
 My personal interest passed quickly, but curiosity lingered about the profession. Why do people become lawyers? Is it really as miserable as I&amp;rsquo;ve heard? Is it even a sound financial decision?</description>
     </item>
     
     <item>
       <title>LA vs SF</title>
-      <link>http://example.org/post/2019-06-28-la-sf/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-06-28-la-sf/</link>
       <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-06-28-la-sf/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-06-28-la-sf/</guid>
       <description>Tyler Cowen thinks it could happen. He cites the weather, no shortage of talent from Caltech, UCLA, and USC, and the fact several prominent startups (Snap, SpaceX, Tinder) have already made LA their home.
 Yet, LA&amp;rsquo;s success seems dependent on SF&amp;rsquo;s failures. Cowen believes Los Angeles can replace Silicon Valley as a tech hub only if San Francisco&amp;rsquo;s rents continue to rise, the homeless population swells, and its behemoths (Apple, Facebook, Google) stop innovating.</description>
     </item>
     
     <item>
       <title>Identity elements</title>
-      <link>http://example.org/post/2019-06-18-identity-elements/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-06-18-identity-elements/</link>
       <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-06-18-identity-elements/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-06-18-identity-elements/</guid>
       <description>In math, there’s the concept of an identity element. Basically, it’s an object that, when used in an operation on another object, leaves the latter object unchanged. In subtraction and addition, for example, the identity element is 0, as adding 0 to anything leaves does not alter the original number. In multiplication it’s 1, as x*1=x for all x, and with matrices it would be the identity matrix. In logic (and I hadn’t thought about this before doing a little research) an identity element is “truth” with the “and” operation, and “falsity” with the “or” operation, which is really interesting.</description>
     </item>
     
     <item>
       <title>Thoughts on slowness</title>
-      <link>http://example.org/post/2019-05-03-thoughts-on-slowness/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-05-03-thoughts-on-slowness/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-05-03-thoughts-on-slowness/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-05-03-thoughts-on-slowness/</guid>
       <description>There’s plenty of material out there that tells us to take our foot off the gas and apply the breaks, or at least coast. In fact, so much has been written about “taking a breath” or “reflecting” that the terms are in danger of losing their potency. We all know how mentally and physically damaging it is to be busy all of the time, but my own anecdotal evidence doesn’t support anyone taking this advice to heart among the surfeit of articles/podcasts/talks telling us chill for a second.</description>
     </item>
     
     <item>
       <title>Louis Vuitton education</title>
-      <link>http://example.org/post/louis-vuitton-education-2019-04-04/</link>
+      <link>%20https//riley-wilson.github.io/site/post/louis-vuitton-education-2019-04-04/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/louis-vuitton-education-2019-04-04/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/louis-vuitton-education-2019-04-04/</guid>
       <description>In light of the college admissions scandal, I’ve been thinking about the roles we expect our educational institutions to fulfill. We are repulsed by the those who sought to lie, bribe, and cheat their way into schools because we see education as a tool of social mobility. Typical American success stories often look like an immigrant/child of immigrants working their way through the educational system during their youth to land at an elite college with a ticket to the upper-middle class.</description>
     </item>
     
     <item>
       <title>Efference copies everywhere</title>
-      <link>http://example.org/post/2019-03-08-efference-copies-everywhere/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-03-08-efference-copies-everywhere/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-03-08-efference-copies-everywhere/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-03-08-efference-copies-everywhere/</guid>
       <description>I’m writing a paper right now about efference copies in nematode worms and what they can tell us about perception. The more I learn, the more impressed I am with the little guys, and all of the strange minor procedures organisms undergo so they can function.
 I’ll start with the issue that faces the worms. First, they are super simple creatures. They only have 302 neurons (compare to 250,000 in a fruit fly) and thus have a limited repertoire of behavior.</description>
     </item>
     
     <item>
       <title>Online Schools</title>
-      <link>http://example.org/post/2019-02-10-online-schools/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-02-10-online-schools/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-02-10-online-schools/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-02-10-online-schools/</guid>
       <description>Note this post was probably published earlier than the date listed. What&amp;rsquo;s on record is when I ported this from a squarespace to a wordpress site.
 The Rise of the Mega-University
 The gist is that a few players (some traditional universities branching out online, some purely virtual) are achieving massive enrollment numbers.
@@ -334,10 +334,10 @@ They are doing this mainly by serving working adults with some or no college tha
     
     <item>
       <title>Girls vs. Boys</title>
-      <link>http://example.org/post/2019-02-08-girls-vs-boys/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-02-08-girls-vs-boys/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-02-08-girls-vs-boys/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-02-08-girls-vs-boys/</guid>
       <description>Note this post was probably posted earlier than the date. What&amp;rsquo;s on record is when I ported this from a squarespace to a wordpress site.
 Lisa Damour in the NYTimes
 Girls consistently outperform boys academically. And yet, men nonetheless hold a staggering 95 percent of the top positions in the largest public companies.
@@ -346,10 +346,10 @@ Damour sees this fact and makes the argument that the same traits that propel fe
     
     <item>
       <title>Visibility and value</title>
-      <link>http://example.org/post/2019-02-05-visibility-and-value/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-02-05-visibility-and-value/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-02-05-visibility-and-value/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-02-05-visibility-and-value/</guid>
       <description>Note this post was probably posted earlier than the date. What&amp;rsquo;s on record is when I ported this from a squarespace to a wordpress site.
 Theory: what’s valued is what’s visible.
 I understand this is almost exactly what Girard’s mimetic theory of desire is, but I arrived at it recently thinking about what types of behaviors are valued at different institutions.
@@ -358,10 +358,10 @@ Eloquence and general knowledge aren’t as valued here as traits as they were a
     
     <item>
       <title>Experience machines and video games</title>
-      <link>http://example.org/post/2019-02-04-experience-machines/</link>
+      <link>%20https//riley-wilson.github.io/site/post/2019-02-04-experience-machines/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2019-02-04-experience-machines/</guid>
+      <guid>%20https//riley-wilson.github.io/site/post/2019-02-04-experience-machines/</guid>
       <description>Note this post was probably posted earlier than the date. What&amp;rsquo;s on record is when I ported this from a squarespace to a wordpress site.
 Robert Nozick in his Anarchy, State and Utopia asks us to imagine a machine that we can plug into and it will simulate anything we desire. While we’re inside, we can experience the joys associated having a fulfilling job, listening to good music, falling in love, or talking with friends.</description>
     </item>
